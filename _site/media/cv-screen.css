@@ -63,12 +63,15 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 80%;
+	font-size: 85%;
 	line-height: 1.5em;
 	/* font-family: Verdana, sans-serif; */
-	font-family: "Open sans", sans-serif;
+	font-family: "Times New Roman Georgia";
 	margin-top: 1em;
 	margin-left: 1em;
+	background-color: white;
+	
+	
 }
 
 p {
@@ -143,14 +146,15 @@ h1+p {
 }
 
 h2 {
-	font-size: 1.1em;
+	font-size: 1.3em;
 	/* color: #a00; */
-	color: #1D49A0;
+	color: #00008B;
 	margin-top: 2em;
 	position: relative;
 	top: 1.4em;
 	text-align: right;
 	width: 15%;
+	font-family: "Times New Roman Georgia";
 }
 
 h3 {
@@ -216,3 +220,4 @@ strong {
 @media only screen and (max-width: 480px) {
 	make one column somehow...
 }*/
+
