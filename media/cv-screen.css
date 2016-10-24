@@ -63,7 +63,7 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 85%;
+	font-size: 80%;
 	line-height: 1.5em;
 	/* font-family: Verdana, sans-serif; */
 	font-family: "Times New Roman Georgia";
@@ -220,4 +220,5 @@ strong {
 @media only screen and (max-width: 480px) {
 	make one column somehow...
 }*/
+
 
